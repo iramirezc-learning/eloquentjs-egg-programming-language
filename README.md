@@ -1,11 +1,7 @@
-# Eletronic Life
+# Egg Programing Language
 
-"A virtual ecosystem, a little world populated with critters that move around and struggle for survival".
+"A tiny, simple programing language".
 
--- Marijn Haverbeke, [Eloquent Javascript](http://eloquentjavascript.net) Chapter 7.
+-- Marijn Haverbeke, [Eloquent Javascript](http://eloquentjavascript.net).
 
-This is a practical project from the book listed above.
-
-## Screenshot
-
-![eletronic-life](https://dl.dropboxusercontent.com/u/78338927/Screenshots/EletronicLife.PNG)
+This is the practical project from Chapter 11.
