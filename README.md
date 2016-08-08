@@ -1,6 +1,6 @@
-# Egg Programing Language
+# Egg Programming Language
 
-"A tiny, simple programing language".
+"A tiny, simple programming language".
 
 -- Marijn Haverbeke, [Eloquent Javascript](http://eloquentjavascript.net).
 
